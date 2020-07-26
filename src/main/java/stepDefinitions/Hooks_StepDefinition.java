@@ -70,3 +70,24 @@
 //	
 //
 //}
+
+
+
+
+
+//piyush kumar sinha.
+//
+//
+//@Given("^user is on mail page$")
+//public void user_is_on_mail_page() throws Throwable {
+//	System.out.println("user is on mail pahge");
+//}
+//
+//@When("^user fills the mail form$")
+//public void user_fills_the_mail_form() throws Throwable {
+//	System.out.println("create a mail");
+//}
+//
+//@Then("^mail is created$")
+//public void mail_is_created() throws Throwable {
+//	System.out.println("mail is created");
