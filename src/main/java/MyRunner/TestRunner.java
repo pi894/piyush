@@ -24,7 +24,7 @@ import cucumber.api.junit.Cucumber;
 	//ANDed : tags = tags = {"@SmokeTest" , "@RegressionTest"} -- execute all tests tagged as @SmokeTest AND @RegressionTest
 	
 
-@RunWith(Cucumber.class)
+/*@RunWith(Cucumber.class)
 	@CucumberOptions(
 			features = "/Users/NaveenKhunteta/Documents/workspace/FreeCrmBDDFramework/src/main/java/Features/taggedhooks.feature", //the path of the feature files
 			glue={"stepDefinitions"}, //the path of the step definition files
@@ -41,4 +41,4 @@ import cucumber.api.junit.Cucumber;
 	
 	//ORed : tags = {"@SmokeTest , @RegressionTest"} -- execute all tests tagged as @SmokeTest OR @RegressionTest
 	//ANDed : tags = tags = {"@SmokeTest" , "@RegressionTest"} -- execute all tests tagged as @SmokeTest AND @RegressionTest
-	
+	*/
